@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "performancemonitoringenhancer",
+    "name": "Performance Monitoring Enhancer",
+    "description": "A lightweight Forge mod that displays real-time performance metrics (FPS, 1% low, 0.01% low, TPS, ping) as an on-screen overlay. Includes hotkeys to toggle, drag, and configure which stats to show.",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/iamfmgod/PerformanceMonitoringEnhancer",
+    "updateUrl": "https://github.com/iamfmgod/PerformanceMonitoringEnhancer/releases",
+    "authorList": [
+      "iamfmgod"
+    ],
+    "credits": "Developed by iamfmgod",
+    "logoFile": "assets/performancemonitoringenhanc/logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
